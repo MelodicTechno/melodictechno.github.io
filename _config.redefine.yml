@@ -23,11 +23,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/miku1.jpg
+  favicon: /images/arknights1.jpg
   # Site logo
   logo:
   # Site avatar
-  avatar: /images/miku2.jpg
+  avatar: /images/lappland1.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
