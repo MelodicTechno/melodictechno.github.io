@@ -82,7 +82,10 @@ global:
   # Whether to enable Preloader.
   preloader: true
   # Whether to enable open graph
-  open_graph: true
+  open_graph: 
+    enable: ture
+    image: /images/arknights2.jpg
+    description: yo
   # Google Analytics
   google_analytics:
     enable: false # Whether to enable Google Analytics
