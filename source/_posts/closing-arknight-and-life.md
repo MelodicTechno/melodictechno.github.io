@@ -3,13 +3,14 @@ title: 运动裤
 date: 2024-12-09 08:28:14
 tags: ["人生", "游戏"]
 excerpt: 我还是喜欢运动裤的
+cover: "../images/closing-arknight-and-life/lappland.png"
 ---
 
 ## 运动裤
     
 最近发现好像有人不喜欢运动裤，然后发了那个吗喽的照片。其实感觉图片本身就挺恶意的，我觉得把一个无伤大雅的穿衣习惯上升到这种层面不合适了。束脚的运动裤有很多好处，能适应大部分运动的场景，我也喜欢那种精炼的风格，所以没什么不好的。我喜欢极简和极繁，运动服这种功能优先的设计对应简单的极端，荒芜拉普兰德那样的服饰是复杂的极端。
 
-<img src="https://web.hycdn.cn/arknights/official/pic/20241030/adef4b3124fefbc31814a635eadffa38.png">
+![](images/closing-arknight-and-life/lappland.png)
 
 后者当然很好康但是日常穿着种需要一点勇气。
 
