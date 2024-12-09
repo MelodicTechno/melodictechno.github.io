@@ -439,6 +439,11 @@ plugins:
     enable: true # Whether to enable
     type: fixed # fixed, mini
     audios:
+      - name: Running In The Dark # audio name
+        artist: MONKEY MAJIK / 塞壬唱片-MSR # audio artist
+        url: https://melodictechno.github.io/blog-songs/songs/running_in_the_dark.mp3 # audio url
+        cover: https://p1.music.126.net/xxQXfMnMlJyMlydzVsRcag==/109951167974724190.jpg?param=130y130 # audio cover url
+        lrc: ''
       - name: 妄想感傷代償連盟 # audio name
         artist: DECO*27 / 初音ミク # audio artist
         url: https://melodictechno.github.io/blog-songs/songs/song1.mp3 # audio url
