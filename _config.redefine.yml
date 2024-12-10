@@ -80,7 +80,7 @@ global:
   # Whether to enable single page experience (using swup). See https://swup.js.org/. similar to pjax
   single_page: true
   # Whether to enable Preloader.
-  preloader: true
+  preloader: false
   # Whether to enable open graph
   open_graph: 
     enable: ture
@@ -439,37 +439,41 @@ plugins:
     enable: true # Whether to enable
     type: fixed # fixed, mini
     audios:
-      - name: 妄想感傷代償連盟 # audio name
-        artist: DECO*27 / 初音ミク # audio artist
-        url: https://melodictechno.github.io/blog-songs/songs/song1.mp3 # audio url
-        cover: http://p1.music.126.net/S8Fw1AOhq45Obb_YyThviw==/18495984602893574.jpg?param=130y130 # audio cover url
-        lrc: # audio cover lrc
-      #      - name: # audio name
-      #        artist: # audio artist
-      #        url: # audio url
-      #        cover: # audio cover url
-      #        lrc: # audio cover lrc
-      # .... you can add more audios here
-      - name: 空の箱 # audio name
-        artist: トゲナシトゲアリ # audio artist
-        url: https://melodictechno.github.io/blog-songs/songs/song3.mp3 # audio url
-        cover: http://p1.music.126.net/WZCpLIj7c9hxL8CHSthviA==/109951169472322801.jpg?param=130y130 # audio cover url
-        lrc: ''
-      - name: 誰にもなれない私だから # audio name
-        artist: トゲナシトゲアリ # audio artist
-        url: https://melodictechno.github.io/blog-songs/songs/song4.mp3 # audio url
-        cover: http://p1.music.126.net/WZCpLIj7c9hxL8CHSthviA==/109951169472322801.jpg?param=130y130 # audio cover url
-        lrc: ''
-      - name: 声なき魚 # audio name
-        artist: トゲナシトゲアリ # audio artist
-        url: https://melodictechno.github.io/blog-songs/songs/song2.mp3 # audio url
-        cover: http://p1.music.126.net/WZCpLIj7c9hxL8CHSthviA==/109951169472322801.jpg?param=130y130 # audio cover url
-        lrc: ''
-      - name: 雑踏、僕らの街 # audio name
-        artist: トゲナシトゲアリ # audio artist
-        url: https://melodictechno.github.io/blog-songs/songs/song5.mp3 # audio url
-        cover: http://p1.music.126.net/WZCpLIj7c9hxL8CHSthviA==/109951169472322801.jpg?param=130y130 # audio cover url
-        lrc:
+      - name: Running In The Dark # audio name
+        artist: MONKEY MAJIK / 塞壬唱片-MSR # audio artist
+        url: https://melodictechno.github.io/blog-songs/songs/running_in_the_dark.mp3 # audio url
+        cover: https://p1.music.126.net/xxQXfMnMlJyMlydzVsRcag==/109951167974724190.jpg?param=130y130 # audio cover url
+      # - name: 妄想感傷代償連盟 # audio name
+      #   artist: DECO*27 / 初音ミク # audio artist
+      #   url: https://melodictechno.github.io/blog-songs/songs/song1.mp3 # audio url
+      #   cover: http://p1.music.126.net/S8Fw1AOhq45Obb_YyThviw==/18495984602893574.jpg?param=130y130 # audio cover url
+      #   lrc: # audio cover lrc
+      # #      - name: # audio name
+      # #        artist: # audio artist
+      # #        url: # audio url
+      # #        cover: # audio cover url
+      # #        lrc: # audio cover lrc
+      # # .... you can add more audios here
+      # - name: 空の箱 # audio name
+      #   artist: トゲナシトゲアリ # audio artist
+      #   url: https://melodictechno.github.io/blog-songs/songs/song3.mp3 # audio url
+      #   cover: http://p1.music.126.net/WZCpLIj7c9hxL8CHSthviA==/109951169472322801.jpg?param=130y130 # audio cover url
+      #   lrc: ''
+      # - name: 誰にもなれない私だから # audio name
+      #   artist: トゲナシトゲアリ # audio artist
+      #   url: https://melodictechno.github.io/blog-songs/songs/song4.mp3 # audio url
+      #   cover: http://p1.music.126.net/WZCpLIj7c9hxL8CHSthviA==/109951169472322801.jpg?param=130y130 # audio cover url
+      #   lrc: ''
+      # - name: 声なき魚 # audio name
+      #   artist: トゲナシトゲアリ # audio artist
+      #   url: https://melodictechno.github.io/blog-songs/songs/song2.mp3 # audio url
+      #   cover: http://p1.music.126.net/WZCpLIj7c9hxL8CHSthviA==/109951169472322801.jpg?param=130y130 # audio cover url
+      #   lrc: ''
+      # - name: 雑踏、僕らの街 # audio name
+      #   artist: トゲナシトゲアリ # audio artist
+      #   url: https://melodictechno.github.io/blog-songs/songs/song5.mp3 # audio url
+      #   cover: http://p1.music.126.net/WZCpLIj7c9hxL8CHSthviA==/109951169472322801.jpg?param=130y130 # audio cover url
+      #   lrc:
   # Mermaid JS. Requires hexo-filter-mermaid-diagrams (npm i hexo-filter-mermaid-diagrams). See https://mermaid.js.org/
   mermaid:
     enable: true # enable mermaid or not
@@ -491,7 +495,7 @@ page_templates:
 # Docs: https://redefine-docs.ohevan.com/cdn
 cdn:
   # Whether to enable CDN
-  enable: true
+  enable: false
   # CDN Provider
   provider: aliyun # npmmirror, zstatic, sustech, staticfile, bootcdn, cdnjs, jsdelivr, unpkg, custom
   # Custom CDN URL
