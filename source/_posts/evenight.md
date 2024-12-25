@@ -3,7 +3,7 @@ title: 平安夜
 date: 2024-12-24 23:50:23
 cover: https://i0.wp.com/churchmediadrop.com/wp-content/uploads/edd/2018/11/ChristmasEveTrees_720p.jpg
 tags: ["人生"]
-excerpt: "希望今年能学会爱自己"
+excerpt: "希望以后能学会爱自己"
 ---
 
 现在是——平安夜。
