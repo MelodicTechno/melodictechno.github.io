@@ -3,7 +3,7 @@ title: About Me
 date: 2024-09-02 17:35:21
 ---
 
-我是MelodicTechno，取这个名字是因为我当时很喜欢这个电子音乐的风格。现在其实没那么经常听这种EDM了，不过已经不能改名了，所以就这样吧😃
+我是MelodicTechno，取这个名字是因为我当时很喜欢这个电子音乐的风格。现在其实没那么经常听这种EDM了，不过已经不能改名了，所以就这样吧。
 
 这就是一首Melodic Techno，这种曲风在传统的Techno的基础上更强调了旋律。
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2638930823&auto=1&height=66"></iframe>
