@@ -121,7 +121,7 @@ home_banner:
   # Home banner image
   image:
     light: /images/arknights4.jpg # light mode
-    dark: /images/arknights3.jpg # dark mode
+    dark: /images/arknights3.png # dark mode
   # Home banner title
   title: MelodicTechno's Blog
   # Home banner subtitle
