@@ -202,9 +202,6 @@ navbar:
     相册: #取名随意
       icon: fa-solid fa-image #图标
       path: /masonry/
-    说说:
-      icon: fa-solid fa-comment
-      path: /essays/
     分类:
       icon: fa-solid fa-folder
       path: /categories/
