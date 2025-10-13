@@ -1,0 +1,961 @@
+[33mcommit 66a338b5389f563012463e88c294da2760ef1db0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a1fa819 938bbf1
+Author: Shi Chen <138079794+MelodicTechno@users.noreply.github.com>
+Date:   Wed Sep 24 16:06:05 2025 +0800
+
+    Merge pull request #14 from MelodicTechno/dependabot/npm_and_yarn/hexo-8.0.0
+    
+    Bump hexo from 7.3.0 to 8.0.0
+
+[33mcommit 938bbf1b5c9f0bef9834facfb079b1396b670daa[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Sep 15 23:18:27 2025 +0000
+
+    Bump hexo from 7.3.0 to 8.0.0
+    
+    Bumps [hexo](https://github.com/hexojs/hexo) from 7.3.0 to 8.0.0.
+    - [Release notes](https://github.com/hexojs/hexo/releases)
+    - [Commits](https://github.com/hexojs/hexo/compare/v7.3.0...v8.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo
+      dependency-version: 8.0.0
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit a1fa8196f2b2bda2773d37150134b42226d1350e[m
+Merge: b68103d 279d318
+Author: Shi Chen <138079794+MelodicTechno@users.noreply.github.com>
+Date:   Tue Jul 22 13:19:26 2025 +0800
+
+    Merge pull request #13 from MelodicTechno/dependabot/npm_and_yarn/hexo-theme-redefine-2.8.5
+    
+    Bump hexo-theme-redefine from 2.8.4 to 2.8.5
+
+[33mcommit 279d3184d52b002cbd004131fed5c687a5d8e617[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Jul 16 23:41:27 2025 +0000
+
+    Bump hexo-theme-redefine from 2.8.4 to 2.8.5
+    
+    Bumps [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) from 2.8.4 to 2.8.5.
+    - [Release notes](https://github.com/EvanNotFound/hexo-theme-redefine/releases)
+    - [Commits](https://github.com/EvanNotFound/hexo-theme-redefine/compare/v2.8.4...v2.8.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-theme-redefine
+      dependency-version: 2.8.5
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b68103dbeb5de21d76569df4ca70e6a59667131b[m
+Merge: a6874c1 b5f611a
+Author: Shi Chen <138079794+MelodicTechno@users.noreply.github.com>
+Date:   Wed Jul 9 22:41:13 2025 +0800
+
+    Merge pull request #12 from MelodicTechno/dependabot/npm_and_yarn/hexo-theme-redefine-2.8.4
+    
+    Bump hexo-theme-redefine from 2.8.2 to 2.8.4
+
+[33mcommit b5f611a1e40f06fddcc86e06c531600f74258958[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Jul 8 03:32:09 2025 +0000
+
+    Bump hexo-theme-redefine from 2.8.2 to 2.8.4
+    
+    Bumps [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) from 2.8.2 to 2.8.4.
+    - [Release notes](https://github.com/EvanNotFound/hexo-theme-redefine/releases)
+    - [Commits](https://github.com/EvanNotFound/hexo-theme-redefine/compare/v2.8.2...v2.8.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-theme-redefine
+      dependency-version: 2.8.4
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit a6874c13da0883dcbf4bd8c37841f7502e76c550[m
+Merge: 8d5e462 4c4cac8
+Author: ihsnehc <138079794+MelodicTechno@users.noreply.github.com>
+Date:   Wed Jun 11 17:02:10 2025 +0800
+
+    Merge pull request #11 from MelodicTechno/dependabot/npm_and_yarn/hexo-filter-mathjax-0.9.1
+    
+    Bump hexo-filter-mathjax from 0.9.0 to 0.9.1
+
+[33mcommit 4c4cac89f6dd9bce3e7ce3864269207d43a8ed81[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Jun 7 00:07:09 2025 +0000
+
+    Bump hexo-filter-mathjax from 0.9.0 to 0.9.1
+    
+    Bumps [hexo-filter-mathjax](https://github.com/next-theme/hexo-filter-mathjax) from 0.9.0 to 0.9.1.
+    - [Release notes](https://github.com/next-theme/hexo-filter-mathjax/releases)
+    - [Commits](https://github.com/next-theme/hexo-filter-mathjax/compare/v0.9.0...v0.9.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-filter-mathjax
+      dependency-version: 0.9.1
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 8d5e462d75830bde6e4e95c1fa93d8b2f16958e7[m
+Merge: 1f572d2 3be2ce0
+Author: ihsnehc <138079794+MelodicTechno@users.noreply.github.com>
+Date:   Sun Mar 9 10:23:12 2025 +0800
+
+    Merge pull request #10 from MelodicTechno/dependabot/npm_and_yarn/hexo-renderer-marked-7.0.1
+    
+    Bump hexo-renderer-marked from 7.0.0 to 7.0.1
+
+[33mcommit 3be2ce00b684f04efb461672a98592388790bff2[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Mar 6 23:40:49 2025 +0000
+
+    Bump hexo-renderer-marked from 7.0.0 to 7.0.1
+    
+    Bumps [hexo-renderer-marked](https://github.com/hexojs/hexo-renderer-marked) from 7.0.0 to 7.0.1.
+    - [Release notes](https://github.com/hexojs/hexo-renderer-marked/releases)
+    - [Commits](https://github.com/hexojs/hexo-renderer-marked/compare/v7.0.0...v7.0.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-renderer-marked
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 1f572d2ad574dc9baf66182ce45be35bccded704[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Fri Feb 28 10:37:22 2025 +0800
+
+    no shuohuo
+
+[33mcommit 202850b2a519bca2a969fb4c5c133917fb35b191[m
+Merge: 5488012 fc908a6
+Author: ihsnehc <138079794+MelodicTechno@users.noreply.github.com>
+Date:   Sat Feb 15 10:12:24 2025 +0800
+
+    Merge pull request #9 from MelodicTechno/dependabot/npm_and_yarn/hexo-theme-landscape-1.1.0
+    
+    Bump hexo-theme-landscape from 1.0.0 to 1.1.0
+
+[33mcommit fc908a6eff9d5b361848358afe441fc48a788d0a[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Feb 14 23:31:53 2025 +0000
+
+    Bump hexo-theme-landscape from 1.0.0 to 1.1.0
+    
+    Bumps [hexo-theme-landscape](https://github.com/hexojs/hexo-theme-landscape) from 1.0.0 to 1.1.0.
+    - [Release notes](https://github.com/hexojs/hexo-theme-landscape/releases)
+    - [Commits](https://github.com/hexojs/hexo-theme-landscape/compare/v1.0.0...v1.1.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-theme-landscape
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 54880121dacfe7f6b1cad1792400038a05b7576e[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Jan 16 20:09:10 2025 +0800
+
+    文件名改正
+
+[33mcommit aa0d66f2c536d1a1f86c2571706d054828cb2694[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Jan 16 19:48:46 2025 +0800
+
+    new wallpaper
+
+[33mcommit 4282256ae5cd7671c5be543c29b7ee0fb884127d[m
+Merge: 9e60686 f98ab7b
+Author: ihsnehc <138079794+MelodicTechno@users.noreply.github.com>
+Date:   Thu Jan 16 19:52:31 2025 +0800
+
+    Merge pull request #8 from MelodicTechno/dependabot/npm_and_yarn/hexo-renderer-marked-7.0.0
+    
+    Bump hexo-renderer-marked from 6.3.0 to 7.0.0
+
+[33mcommit 9e6068643671a25afebaf3a55388838642b3c185[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Jan 9 21:36:59 2025 +0800
+
+    画线算法比较
+
+[33mcommit f98ab7bbd91112283a52df9e6478209b3fad0c27[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jan 2 23:38:01 2025 +0000
+
+    Bump hexo-renderer-marked from 6.3.0 to 7.0.0
+    
+    Bumps [hexo-renderer-marked](https://github.com/hexojs/hexo-renderer-marked) from 6.3.0 to 7.0.0.
+    - [Release notes](https://github.com/hexojs/hexo-renderer-marked/releases)
+    - [Commits](https://github.com/hexojs/hexo-renderer-marked/compare/v6.3.0...v7.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-renderer-marked
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 4f2127faf586be071cf28da646d6f919b7c5333e[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Dec 31 14:41:13 2024 +0800
+
+    no emoji
+
+[33mcommit 83fcadaaa0cf840e53395e7ed36234a7309a10bd[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Wed Dec 25 21:29:59 2024 +0800
+
+    这样比较好
+
+[33mcommit 4d6b08d11f79f8b2307f0bc7f8bccae18f48f5be[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Dec 24 23:55:10 2024 +0800
+
+    christmas eve
+
+[33mcommit 50ce6e6b341db76d3580f59ac5aee713e9053365[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Dec 19 15:37:18 2024 +0800
+
+    不要错别字
+
+[33mcommit a003f8a52eb46d2e569e4f321e9f9289d810b283[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Dec 19 15:32:49 2024 +0800
+
+    finnish
+
+[33mcommit f38d0b5183c6ffbbd70f982fec44640455b6117c[m
+Merge: cc1aefb 04b0878
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Dec 19 15:16:00 2024 +0800
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+[33mcommit cc1aefb75ef92da2cc5a71229df35cfca8d07aec[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Dec 19 15:15:30 2024 +0800
+
+    new blog
+
+[33mcommit 04b0878eae8594f0af93c1bb6bf79256c10f47c8[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Dec 10 20:24:05 2024 +0800
+
+    new essay
+
+[33mcommit 1987ba350d165e039e78c83c379bd59b12f77240[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Dec 10 20:12:04 2024 +0800
+
+    no dirty words
+
+[33mcommit 49918636cff9ab031c283255208317fd4865e2df[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Dec 10 20:03:15 2024 +0800
+
+    rational zhengzheng
+
+[33mcommit 0d580933e65a8a96957afcfcd2192781b3f69368[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Dec 10 15:35:10 2024 +0800
+
+    enable pre
+
+[33mcommit e22a332cf8c6f249d577819590652fd163244c60[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Dec 10 15:15:40 2024 +0800
+
+    enable cdn
+
+[33mcommit 06734ef6d532a7faef9a5c1ed91abad0ebc9caed[m
+Merge: 5becb75 b364307
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Dec 10 15:14:14 2024 +0800
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+    
+    nothing
+
+[33mcommit 5becb75f9e44921ac7fa589fe6f77fb962e5e323[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Dec 10 15:12:05 2024 +0800
+
+    new
+
+[33mcommit b36430745d3346b040b50a7500b50eeb1dd074db[m
+Merge: ccf00f5 d901699
+Author: MelodicTechno <138079794+MelodicTechno@users.noreply.github.com>
+Date:   Tue Dec 10 14:53:25 2024 +0800
+
+    Merge pull request #7 from MelodicTechno/dependabot/npm_and_yarn/hexo-theme-redefine-2.8.2
+    
+    Bump hexo-theme-redefine from 2.8.1 to 2.8.2
+
+[33mcommit d901699513ef3f4ace2aab1e08138ba855e13aeb[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 9 23:55:53 2024 +0000
+
+    Bump hexo-theme-redefine from 2.8.1 to 2.8.2
+    
+    Bumps [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) from 2.8.1 to 2.8.2.
+    - [Release notes](https://github.com/EvanNotFound/hexo-theme-redefine/releases)
+    - [Commits](https://github.com/EvanNotFound/hexo-theme-redefine/compare/v2.8.1...v2.8.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-theme-redefine
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit ccf00f54317cd970027549f81ce770fe418c88ac[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Dec 9 21:31:08 2024 +0800
+
+    y
+
+[33mcommit 9ddcadb63a767d2f554ccedc9b2a4798e27a9b97[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Dec 9 21:27:43 2024 +0800
+
+    no lyrics
+
+[33mcommit 7262ba1532bff5a45a8dc9d7a774ea2f5920413b[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Dec 9 21:25:28 2024 +0800
+
+    ?
+
+[33mcommit d27eca81ff7fcc2a34a89e767b92cd8e50bbac7f[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Dec 9 21:19:14 2024 +0800
+
+    new song
+
+[33mcommit b54df07ec784fbe056278d25ce76e1d7a0ca7971[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Dec 9 21:04:57 2024 +0800
+
+    speel
+
+[33mcommit 5213ded2e5e307a5ba86c1c966e56f3f832f8440[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Dec 9 21:02:07 2024 +0800
+
+    pic
+
+[33mcommit 13ed102464b7813f684129c18dbf82bc48ccf8e5[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Dec 9 20:51:19 2024 +0800
+
+    new shit
+
+[33mcommit 54a6ac932c07605789aeb88e04ee0fc4c85c085c[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sat Dec 7 14:26:09 2024 +0800
+
+    new post
+
+[33mcommit a633d3609fb0f04a7354ccedf449aa4ebb71fdbf[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sat Dec 7 14:10:45 2024 +0800
+
+    add bio
+
+[33mcommit 1f6590d3e00c6b2c138dfefec18bf4e65b22e367[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sat Dec 7 11:17:42 2024 +0800
+
+    write sth
+
+[33mcommit f15d12fea752cf9cf66437a7c490aac7745ff4ce[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sat Dec 7 11:05:11 2024 +0800
+
+    change background
+
+[33mcommit edac97f03b1115e711d381888d3ba546ba593686[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sat Dec 7 11:02:51 2024 +0800
+
+    change pic
+
+[33mcommit b1db468dc32c7b996095eea2662ba1229d5e43c7[m
+Merge: 5024a30 f98a90e
+Author: MelodicTechno <138079794+MelodicTechno@users.noreply.github.com>
+Date:   Sat Dec 7 10:57:17 2024 +0800
+
+    Merge pull request #6 from MelodicTechno/dependabot/npm_and_yarn/hexo-theme-redefine-2.8.1
+    
+    Bump hexo-theme-redefine from 2.7.3 to 2.8.1
+
+[33mcommit f98a90e469e2184343bc59432db9b7ecea613848[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Nov 20 23:44:43 2024 +0000
+
+    Bump hexo-theme-redefine from 2.7.3 to 2.8.1
+    
+    Bumps [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) from 2.7.3 to 2.8.1.
+    - [Release notes](https://github.com/EvanNotFound/hexo-theme-redefine/releases)
+    - [Commits](https://github.com/EvanNotFound/hexo-theme-redefine/compare/v2.7.3...v2.8.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-theme-redefine
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 5024a30702d080465aa4671331242614c94fc397[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Oct 29 16:02:50 2024 +0800
+
+    update frame
+
+[33mcommit f92f6e222f1d5983043c460ef9caf4fd20a1d2bf[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Oct 8 22:44:59 2024 +0800
+
+    delete shuoshou
+
+[33mcommit 46add6ab7807db883a13a5c6da106dd39edece5f[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Sep 16 20:51:35 2024 +0800
+
+    说说
+
+[33mcommit 22a3c8662f32947d1fad0ff93a958c70aaa678ed[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sun Sep 15 21:50:45 2024 +0800
+
+    new shuoshuo
+
+[33mcommit 764d97ccbde57cfd9029f35a2ae0820181b6ba85[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sun Sep 15 21:44:08 2024 +0800
+
+    vit not finished
+
+[33mcommit e0874f93f328d5e5dec094a5ef97b0ff361ed71e[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 23:51:51 2024 +0800
+
+    finnish to code
+
+[33mcommit 3d4c764e0edfbc652d4b53417efee489649c6b0b[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 23:32:44 2024 +0800
+
+    add kaggle idea & friend link
+
+[33mcommit 471372228cf81c152c4ccc6470184f7bfd6d9daf[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 22:40:03 2024 +0800
+
+    chage cover
+
+[33mcommit 49f63937e72d811a3f816280ae50c98e74b68049[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 21:59:43 2024 +0800
+
+    finish gan, add some shuoshuo
+
+[33mcommit 571e0fead5ded59639c0114fe486d8c1a3c7012d[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 15:19:27 2024 +0800
+
+    net
+
+[33mcommit c2cb165df445f48ad897f6c456a56f9a417d7946[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 15:15:44 2024 +0800
+
+    crop the cover
+
+[33mcommit 226fa4aa504f989005545d5dae4a8377771435c9[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 15:13:24 2024 +0800
+
+    start gan
+
+[33mcommit 990c6a99d107977776e94f877844604c271f74fe[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 15:05:51 2024 +0800
+
+    fix underline
+
+[33mcommit 8800368ebe2da358bba768b687847ef65c9e34ce[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 14:57:09 2024 +0800
+
+    Finnished attention
+
+[33mcommit f1bfb7198bf27d7a8c06d16ec69c05b2eba1ce25[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 14:33:33 2024 +0800
+
+    new shuoshuo
+
+[33mcommit d0eb9a489fdaea2f81ec64d095c7affb78a0b999[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 14:29:27 2024 +0800
+
+    在导航栏删去关于 增加说说
+
+[33mcommit 617f2bd169f41e1199be1158f0e4f47f9687663b[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 14:24:34 2024 +0800
+
+    add a essay
+
+[33mcommit 64e9b77873828da46c0060915d1d74470fa28e4a[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 12:48:28 2024 +0800
+
+    update llama
+
+[33mcommit 85a5702219decea92241de2c6f11f8f6731f1620[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 11:18:09 2024 +0800
+
+    update and begin to write llama
+
+[33mcommit 9cb6affc1b8791b0af5dcb6a4e361c0e18fc2e95[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 00:05:47 2024 +0800
+
+    try to fix
+
+[33mcommit 030d2c5f30028ce85a8598cd808892168f79d4a8[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Sep 5 00:00:02 2024 +0800
+
+    写到调式
+
+[33mcommit 1edf621ad937456b19c585c0f0869195baf96a85[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Wed Sep 4 23:38:01 2024 +0800
+
+    finnished fc
+
+[33mcommit f0726f8355eceb2954f2d04dd885def184ec59ef[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Wed Sep 4 22:20:01 2024 +0800
+
+    fix image
+
+[33mcommit 1777e132dc4f81fe8810d6918eeeb9de60544428[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Wed Sep 4 22:16:17 2024 +0800
+
+    add kaggle1
+
+[33mcommit 7daec8ed2c08fd4cfa79e28c660c12a8b6ef19fe[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Wed Sep 4 20:08:04 2024 +0800
+
+    fix rho
+
+[33mcommit 20347c06d6f5c8f7136509b9037eef4d2fd54c03[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Wed Sep 4 12:14:05 2024 +0800
+
+    rou to ro
+
+[33mcommit 2ba3a50eb63c7d894937966d2b9c0de12072b153[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Wed Sep 4 11:36:00 2024 +0800
+
+    add more tag
+
+[33mcommit 567a8696a158fdd9cdfe27f13d7c2f5736409877[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Wed Sep 4 11:10:27 2024 +0800
+
+    that's all i guess
+
+[33mcommit 4f7f8a201de24bd583167964f24fa3bd3cb1ed5e[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Sep 3 23:10:10 2024 +0800
+
+    fix the broken image
+
+[33mcommit 7c6324d0348a17542d42bad1ed4807bb7dfa2f85[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Sep 3 23:07:30 2024 +0800
+
+    add gru
+
+[33mcommit d0d4f461a2df4d0dcbaa1176de4db49d9d9a5a1d[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Sep 3 20:36:04 2024 +0800
+
+    更改分类
+
+[33mcommit 2ad248bfb5a448afb6d9a6417a46b7d26071b12b[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Sep 2 18:04:12 2024 +0800
+
+    增加归档
+
+[33mcommit 30b1c1f195ecbdf525ff688ffd126c02abede2f8[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Sep 2 17:58:37 2024 +0800
+
+    修订
+
+[33mcommit a678983623393ab4021e71b9aa505d46c12c3e69[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Sep 2 17:47:16 2024 +0800
+
+    颜色
+
+[33mcommit dc4b776c260c28b35974ca3480a46ed954adf3ac[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Sep 2 17:40:24 2024 +0800
+
+    增加关于
+
+[33mcommit 3e7471c615bdc4ff8641feafed6074ec3412b326[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Sep 2 17:29:02 2024 +0800
+
+    修订
+
+[33mcommit 574cb69a6a67e2e3e9510ebc2d3a40571e8c9434[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Sep 2 17:08:52 2024 +0800
+
+    修复公式
+
+[33mcommit d854e953cc177b5574bedcb13317ea5faa1363bb[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Sep 2 15:45:26 2024 +0800
+
+    增加台词
+
+[33mcommit b9f0ad67f3caa91639594352df0c9a26d3e93b18[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Sep 2 15:35:15 2024 +0800
+
+    修正标题
+
+[33mcommit 3e60bc569efed9383ac653eee56ece4ad14950ec[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Sep 2 15:32:29 2024 +0800
+
+    删去多余的线
+
+[33mcommit 255219c8d0d183c91962d2834bed84dcf9fa5ce0[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sat Aug 31 19:33:46 2024 +0800
+
+    增加封面
+
+[33mcommit 29ee3fea62b63d726969428fd146a78e8f640a42[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sat Aug 31 17:14:43 2024 +0800
+
+    增加总结
+
+[33mcommit 6bb7ef9dbca2b4b216745261dcee635474a02796[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sat Aug 31 17:11:40 2024 +0800
+
+    写到timesformer
+
+[33mcommit ebc37cdd4311bd962516106f4de29e4d4afa65bf[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sat Aug 31 15:27:35 2024 +0800
+
+    修订
+
+[33mcommit 60f89a4917716fdf21119b4ac3637c8cf9a59515[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sat Aug 31 14:48:18 2024 +0800
+
+    non-local写完
+
+[33mcommit b89d2e4fb9645bf0f8efdee39144ef3b1d893df9[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Sat Aug 31 14:25:02 2024 +0800
+
+    写到I3D
+
+[33mcommit 68024af69af33edfa8de0df8c6f4fae954af524f[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Fri Aug 30 20:42:18 2024 +0800
+
+    加了图片
+
+[33mcommit 0b9fb43f35ea9ba61496368b5d65a13d0140d5f2[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Fri Aug 30 20:34:11 2024 +0800
+
+    写了开头
+
+[33mcommit 2ed2a90eefbf58b2bf653e0d130be70dd6fae5e1[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Fri Aug 30 10:38:57 2024 +0800
+
+    增加流程图
+
+[33mcommit 6b716161fcab133210b579dc9d2432c602ad4dd0[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Fri Aug 30 10:12:16 2024 +0800
+
+    修复歌曲404的bug 写到tsn
+
+[33mcommit c528784c0913ca2935662255237e56ec123c6a80[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 18:09:32 2024 +0800
+
+    写到early fusion的结果
+
+[33mcommit d202b0adda49f56b17861d7d2f6ec1fbd560ab10[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 17:43:01 2024 +0800
+
+    增加proxy
+
+[33mcommit b6d6bd22b71be114f89ff3d58b54365ebfac6236[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 17:36:00 2024 +0800
+
+    放弃评论区
+
+[33mcommit ab8f92b31b0148cbd41d809222a48fe055c42a69[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 17:21:22 2024 +0800
+
+    评论区
+
+[33mcommit 6525e7ea8b02bc1b4d38361ef535292b480698ba[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 16:41:07 2024 +0800
+
+    修复评论区bug
+
+[33mcommit 588097008550feda2614b82c241b19d0091fef1c[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 16:36:45 2024 +0800
+
+    增加评论区 写到融合的区域
+
+[33mcommit d1490a8f1bb47aa2f19ade8957cb2c8c3dc109fe[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 12:45:06 2024 +0800
+
+    开始记乐理 加上封面
+
+[33mcommit 963d76d51925ee7265335dc5de971acb4bb557eb[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 11:35:45 2024 +0800
+
+    更改摘要
+
+[33mcommit b990f31c585564691b95abb9c9bf03e71174e95b[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 11:27:57 2024 +0800
+
+    使用cdn
+
+[33mcommit 87813b8c757df647417a06c92e582ca7df81e6e4[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 10:53:34 2024 +0800
+
+    不要统计
+
+[33mcommit e1de4ecc0d8ee1524a0dcebb76421dff43f6a647[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 10:50:14 2024 +0800
+
+    写到双流
+
+[33mcommit 6469029591899ac793c39b086605974b831366c9[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Thu Aug 29 10:11:59 2024 +0800
+
+    整理李沐账号的视频理解串讲
+
+[33mcommit b15686f55721212155f3f316f0a6da798e82648e[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Wed Aug 28 00:14:17 2024 +0800
+
+    上传了几首GBC的歌
+
+[33mcommit 29ef51366cb3ce1aabc074f68894050609f743b5[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Wed Aug 28 00:05:43 2024 +0800
+
+    写完了赛艇的小作文
+
+[33mcommit 08402f657d013210ab9f8b768bf4db95ca06a216[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 22:11:29 2024 +0800
+
+    写到 rgb和骨架暂停
+
+[33mcommit 92eb69e358682d33b74791855f4b4768b079a3a7[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 22:00:51 2024 +0800
+
+    写到Fusion of RGB and Skeleton Modalities
+
+[33mcommit 88d670fbcb672e31048d16cb81a787b8679a4656[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 18:16:03 2024 +0800
+
+    怎么回事
+
+[33mcommit 6f75475b50280aecf0381cc14c2bc9224be0810b[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 18:14:49 2024 +0800
+
+    不要统计
+
+[33mcommit a9a1e1f5bb5bb04aa7a46a39e821e1afcd9451d5[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 18:08:13 2024 +0800
+
+    修正空格
+
+[33mcommit 936d75156dcc164addee42e7e1d6d8dcc0491315[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 18:06:58 2024 +0800
+
+    写到点云
+
+[33mcommit 0486187867b3da1593ffd521ccf9184cef1c2f87[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 15:53:19 2024 +0800
+
+    写到解决cnn的问题
+
+[33mcommit d27f635ca533a7a469b1141b6fbc6008d2b988c8[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 11:58:15 2024 +0800
+
+    写到了因式分解 yang
+
+[33mcommit 080f08ea0b7fba810f5b0b0064b62b74c8517d01[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 10:39:06 2024 +0800
+
+    增加MP3歌曲
+
+[33mcommit d5e7629bc6ab9cdcc5522ffed9317a503ba8d3fa[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 10:24:26 2024 +0800
+
+    增加歌曲
+
+[33mcommit a50c5435848cdd0c78b8a8ce913bf9ca1678d2e0[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 09:49:02 2024 +0800
+
+    增加打字 修改背景
+
+[33mcommit d0a21e5a67c84c034f9ada0ab337f7de114e9fe4[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Tue Aug 27 00:08:07 2024 +0800
+
+    新文章
+
+[33mcommit 986d60dc1186482349cfae9bd6abd88f1aa4f1a6[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Aug 26 23:29:12 2024 +0800
+
+    改改公式bug 增加归档
+
+[33mcommit e954e00cd6fe549eefa5eb2a828aea34a7ff4b3c[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Aug 26 23:23:20 2024 +0800
+
+    综述整理到第六页
+
+[33mcommit 7b16d3a76fadc6e479aa17d2e5b4e84b8d9973bd[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Aug 26 22:22:56 2024 +0800
+
+    add image
+
+[33mcommit 1965e87e4b747316eed07fabb384737daa2b2cf4[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Aug 26 22:21:29 2024 +0800
+
+    no footer
+
+[33mcommit 6fdba7604b5b16a514b9c28adc98b59c9a99c33a[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Aug 26 22:19:19 2024 +0800
+
+    change style
+
+[33mcommit 198b28669232030d3393cb489128fb1b22813693[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Aug 26 21:30:39 2024 +0800
+
+    add har1
+
+[33mcommit 87dcc218e9fcef9bc191fc0faa73acca4a88a651[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Aug 26 21:21:06 2024 +0800
+
+    change name
+
+[33mcommit 0b329f34a540a5118c4dfb88abf8a347f2f74f3f[m
+Author: MelodicTechno <138079794+MelodicTechno@users.noreply.github.com>
+Date:   Mon Aug 26 21:14:18 2024 +0800
+
+    Create pages.yml
+
+[33mcommit d8ca6dbbf19b6a5e7c71523696b42c617ee07d16[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Aug 26 21:13:48 2024 +0800
+
+    add deploy
+
+[33mcommit 23079789ee9ace38bbb44125bd18539da47b11e3[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Aug 26 21:12:16 2024 +0800
+
+    add deploy
+
+[33mcommit f810c4afd1ec05a55ef1669cf8fa63d9bffa1681[m
+Author: MelodicTechno <617179025@qq.com>
+Date:   Mon Aug 26 21:09:19 2024 +0800
+
+    init
