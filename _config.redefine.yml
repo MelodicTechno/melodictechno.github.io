@@ -199,9 +199,9 @@ navbar:
     Friends: #取名随意
       icon: fa-solid fa-link #图标
       path: /links/
-    相册: #取名随意
-      icon: fa-solid fa-image #图标
-      path: /masonry/
+    # 相册: #取名随意
+      # icon: fa-solid fa-image #图标
+      # path: /masonry/
     分类:
       icon: fa-solid fa-folder
       path: /categories/
